@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1645354439 source:/home/margauxhanut/ProjectC/Semaine3_QuestionsComplementaires/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1645355552 source:/home/margauxhanut/ProjectC/Semaine3_QuestionsComplementaires/test2.c
+	<stdlib.h>
+	<stdio.h>
+
